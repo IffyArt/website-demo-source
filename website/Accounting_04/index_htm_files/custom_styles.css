@@ -1,0 +1,10 @@
+.Normal_text {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:11px;text-decoration:none;text-transform: none;color:#000000;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Subheading {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;text-transform: none;color:#FFFFFF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Highlight_text {font-size:13px;color:#B64100;}
+.Heading_2 {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:18px;text-decoration:none;text-transform: none;color:#DF5000;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Panel_text {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:11px;text-decoration:none;text-transform: none;color:#FFFFFF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Bulleted_List {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:12px;text-decoration:none;text-transform: none;color:#FFFFFF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Question {font-size:13px;color:#707070;}
+.Heading_3 {font-family:Arial;font-weight:normal;font-style:normal;font-size:14px;text-decoration:none;text-transform: none;color:#BE4400;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Answer {font-size:13px;color:#000000;}
+.Heading_1 {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:20px;text-decoration:none;text-transform: none;color:#000000;-webkit-text-stroke: 0px black;letter-spacing:0em;}
