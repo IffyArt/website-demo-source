@@ -1,0 +1,5 @@
+.Normal_text {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:12px;text-decoration:none;text-transform: none;color:#1C1C1C;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_2 {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:18px;text-decoration:none;text-transform: none;color:#2F3B6D;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_1 {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:24px;text-decoration:none;text-transform: none;color:#DEB004;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Bulleted_List {font-family:'Open Sans';font-weight:normal;font-style:normal;font-size:12px;text-decoration:none;text-transform: none;color:#FFFFFF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Highlight_text {font-size:14px;color:#262D4B;}
