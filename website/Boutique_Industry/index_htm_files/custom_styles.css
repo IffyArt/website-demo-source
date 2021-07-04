@@ -1,0 +1,6 @@
+.Normal_text {font-family:'Roboto';font-weight:300;font-style:normal;font-size:16px;text-decoration:none;text-transform: none;color:#000000;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_4 {font-weight:normal;}
+.Heading_1 {font-family:'Raleway';font-weight:normal;font-style:normal;font-size:46px;text-decoration:none;text-transform: none;color:#000000;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Quote_text {font-family:'Noto Serif';font-weight:normal;font-style:italic;font-size:20px;text-decoration:none;text-transform: none;color:#000000;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_2 {font-size:32px;}
+.Small_text {font-size:12px;}
