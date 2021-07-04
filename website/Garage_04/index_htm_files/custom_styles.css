@@ -1,0 +1,6 @@
+.Normal_text {font-family:'Trebuchet MS';font-weight:normal;font-style:normal;font-size:12px;text-decoration:none;text-transform: none;color:#FFFFFF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_1 {font-family:'Nova Square';font-weight:normal;font-style:normal;font-size:48px;text-decoration:none;text-transform: none;color:#9B9B9B;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_2 {font-family:'Nova Square';font-weight:normal;font-style:normal;font-size:24px;text-decoration:none;text-transform: none;color:#9B9B9B;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_3 {font-family:'Trebuchet MS';font-weight:bold;font-style:normal;font-size:18px;text-decoration:none;text-transform: none;color:#FFFFFF;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_3_Dark {color:#1A3F4F;}
+.Normal_text_Dark {color:#424143;}
