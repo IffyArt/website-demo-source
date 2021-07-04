@@ -1,0 +1,5 @@
+.Normal_text {font-family:'Trebuchet MS';font-weight:normal;font-style:normal;font-size:18px;text-decoration:none;text-transform: none;color:#1B1B1B;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_2 {font-family:'Trebuchet MS';font-weight:normal;font-style:normal;font-size:24px;text-decoration:none;text-transform: none;color:#F85B26;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_1 {font-family:'Palatino Linotype';font-weight:bold;font-style:italic;font-size:36px;text-decoration:none;text-transform: none;color:#1B1B1B;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Price {font-family:Arial;font-weight:bold;font-style:normal;font-size:20px;text-decoration:none;text-transform: none;color:#F85B26;-webkit-text-stroke: 0px black;letter-spacing:-0.008em;}
+.Heading_3 {color:#FFFFFF;}
