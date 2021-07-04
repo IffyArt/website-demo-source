@@ -1,0 +1,5 @@
+.Normal_text {font-family:Arial;font-weight:normal;font-style:normal;font-size:12px;text-decoration:none;text-transform: none;color:#363636;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_1 {font-family:'Fredericka the Great';font-weight:normal;font-style:normal;font-size:36px;text-decoration:none;text-transform: none;color:#46525F;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_2 {font-family:'Maven Pro';font-weight:500;font-style:normal;font-size:20px;text-decoration:none;text-transform: none;color:#92AA0F;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_3 {font-family:'Maven Pro';font-weight:normal;font-style:normal;font-size:16px;text-decoration:none;text-transform: none;color:#363636;-webkit-text-stroke: 0px black;letter-spacing:0em;}
+.Heading_2_Light {color:#FFFFFF;}
